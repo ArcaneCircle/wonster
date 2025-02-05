@@ -2,7 +2,6 @@ import { addDays, differenceInDays, formatISO, startOfDay } from 'date-fns'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
 
 import { NOT_CONTAINED_MESSAGE, WRONG_SPOT_MESSAGE } from '../constants/strings'
-import { VALID_GUESSES } from '../constants/validGuesses'
 import { WORDLIST } from '../constants/wordlist'
 import { getToday } from './dateutils'
 import { getSeed } from './localStorage'
@@ -14,8 +13,7 @@ export const periodInDays = 1
 
 export const isWordInWordList = (word: string) => {
   return (
-    WORDLIST.includes(localeAwareLowerCase(word)) ||
-    VALID_GUESSES.includes(localeAwareLowerCase(word))
+    WORDLIST.includes(localeAwareLowerCase(word))
   )
 }
 
