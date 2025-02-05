@@ -21,4 +21,4 @@ $> npm run build
 
 ## Credits
 
-The monsters images are licensed under CC-BY-SA 3.0 by [Buch](https://opengameart.org/content/monsterpong-assets)
+The monsters images are licensed under CC-BY-SA 3.0 by [Buch](https://opengameart.org/content/monsterpong-assets). The word list is sourced from the free [12dicts](http://wordlist.aspell.net/12dicts/) wordware lists compiled by Alan Beale.
