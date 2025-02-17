@@ -3379,7 +3379,6 @@ doers
 downs
 beady
 motif
-humph
 fella
 mould
 crepe
@@ -3730,7 +3729,6 @@ honed
 annas
 coypu
 shims
-zowie
 jihad
 savvy
 nadir
@@ -3955,7 +3953,6 @@ rusks
 avast
 swami
 boded
-ahhhh
 lobed
 natch
 shish
@@ -4685,12 +4682,10 @@ gigue
 limed
 plein
 redly
-humpf
 lites
 seest
 grebe
 absit
-thanx
 pshaw
 yawps
 plats
@@ -4712,7 +4707,6 @@ blowy
 wahoo
 lubra
 mecum
-whooo
 coqui
 sabra
 edema
@@ -4746,7 +4740,6 @@ cooch
 whipt
 folky
 tyres
-wheee
 corky
 injun
 solon
@@ -5190,7 +5183,6 @@ therm
 heigh
 shnor
 trued
-zayin
 liest
 barfs
 bassi
@@ -5251,9 +5243,7 @@ creme
 email
 pyxie
 kulak
-bocci
 rived
-duddy
 hoper
 lapin
 wonks
@@ -5276,7 +5266,6 @@ maria
 smogs
 asana
 yogic
-slomo
 fawny
 amine
 wefts
@@ -5306,7 +5295,6 @@ shlep
 vinca
 yahoo
 vulva
-zooey
 dryad
 nixie
 moper
@@ -5340,7 +5328,6 @@ maced
 crits
 kluge
 tubed
-sahib
 ganef
 scats
 sputa
@@ -5419,7 +5406,6 @@ smurf
 owest
 bahts
 lossy
-ftped
 hunky
 hoers
 slier
@@ -5481,7 +5467,6 @@ ruing
 slily
 ricer
 hadda
-wowee
 rices
 nerts
 cauls
@@ -5584,7 +5569,6 @@ dashy
 doser
 dildo
 apsos
-xored
 laker
 playa
 selah
@@ -5684,7 +5668,6 @@ rimer
 login
 molas
 cirri
-huzza
 agone
 unsex
 unwon
@@ -5732,13 +5715,10 @@ unfix
 doggo
 zooks
 diddy
-shmoo
 brusk
 prest
 curer
 pasts
-kelpy
-bocce
 kicky
 taros
 lings
@@ -5754,7 +5734,6 @@ gooks
 wonky
 stied
 hypos
-assed
 spumy
 osier
 roble
